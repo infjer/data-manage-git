@@ -1,0 +1,26 @@
+{
+  "name": "data-manage-git",
+  "version": "1.0.0",
+  "description": "manage your data by git-way in javascript",
+  "main": "index.js",
+  "scripts": {},
+  "author": "infjer",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.4.2",
+    "lodash.clonedeep": "^4.5.0",
+    "object-hash": "^1.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-transform-runtime": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/runtime-corejs2": "^7.4.2",
+    "babel-loader": "^8.0.5",
+    "clean-webpack-plugin": "^2.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "sideEffects": false
+}
