@@ -1,9 +1,24 @@
 {
   "name": "data-manage-git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "manage your data by git-way in javascript",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infjer/data-manage-git.git"
+  },
+  "keywords": [
+    "data",
+    "manage",
+    "git",
+    "data manage",
+    "data-manage",
+    "manage data",
+    "manage-data",
+    "git way",
+    "like git"
+  ],
   "author": "infjer",
   "license": "MIT",
   "dependencies": {
